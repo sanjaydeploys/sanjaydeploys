@@ -20,10 +20,10 @@ Each of my projects is **backed by a real use case**, engineered for production-
 
 | Case Study | Live Demo | GitHub | Description |
 |------------|-----------|--------|-------------|
-| [LIC Neemuch](https://sanjay-patidar.vercel.app/lic-case-study) | [Live](https://licneemuch.space) | [Code](https://github.com/hello-developer-sanjay/LicNeemuch) | SEO-first insurance inquiry site, SSR-powered, AWS Lambda backend, 3x lead growth |
-| [Zedemy LMS](https://sanjay-patidar.vercel.app/zedemy-case-study) | [Live](https://zedemy.vercel.app) | [Code](https://github.com/hello-developer-sanjay/Zedemy) | Serverless LMS with blog, code editor, certs, SSR, and autosave coding sandbox |
-| [EventEase](https://sanjay-patidar.vercel.app/eventease-case-study) | [Live](https://eventunified.vercel.app) | [Code](https://github.com/hello-developer-sanjay/EventEase) | Unified event scheduling + collaboration platform, Google Calendar-ready |
-| [ConnectNow](https://sanjay-patidar.vercel.app/connectnow-case-study) | [Live](https://connectnow.vercel.app) | [Code](https://github.com/hello-developer-sanjay/ConnectNow-frontend) | WebRTC + Socket.io based P2P calling with ICE fallback, chat, and file transfer |
+| [LIC Neemuch](https://sanjay-patidar.vercel.app/lic-case-study) | [Live](https://licneemuch.space) | [Code](https://github.com/sanjaydeploys/LicNeemuch) | SEO-first insurance inquiry site, SSR-powered, AWS Lambda backend, 3x lead growth |
+| [Zedemy LMS](https://sanjay-patidar.vercel.app/zedemy-case-study) | [Live](https://zedemy.vercel.app) | [Code](https://github.com/sanjaydeploys/Zedemy) | Serverless LMS with blog, code editor, certs, SSR, and autosave coding sandbox |
+| [EventEase](https://sanjay-patidar.vercel.app/eventease-case-study) | [Live](https://eventunified.vercel.app) | [Code](https://github.com/sanjaydeploys/EventEase) | Unified event scheduling + collaboration platform, Google Calendar-ready |
+| [ConnectNow](https://sanjay-patidar.vercel.app/connectnow-case-study) | [Live](https://connectnow.vercel.app) | [Code](https://github.com/sanjaydeploys/ConnectNow-frontend) | WebRTC + Socket.io based P2P calling with ICE fallback, chat, and file transfer |
 
 ---
 
