@@ -10,7 +10,15 @@
 
 ## Overview
 
-I'm **Sanjay Patidar**, a full-stack developer focused on delivering scalable, SEO-optimized, and serverless SaaS applications. My expertise lies in solving real-world business problems across insurance, education, communication, and event management.
+Hi, I'm **Sanjay Patidar** — a Full-Stack Engineer with a strong product mindset and 12+ real-world projects delivered across **serverless**, **cloud-native**, and **SEO-first** architectures.
+
+I specialize in building **production-grade applications** that drive measurable business impact — prioritizing performance, scalability, and user-centric outcomes over just shipping features.
+
+🛠️ Domains I’ve worked in:
+- 📊 Government-backed insurance (LIC Neemuch)
+- 📚 eLearning platforms (Zedemy LMS)
+- 📹 Real-time video communication (ConnectNow)
+- 📅 Event coordination (EventEase)
 
 Each of my projects is **backed by a real use case**, engineered for production-readiness, performance, and long-term scalability. From serverless deployments to client-side rendering and cloud cost management, every project below is a carefully crafted solution.
 
