@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer+%7C+SaaS+Architect+%7C+Cloud+Native+Builder;React.js+%7C+Node.js+%7C+WebRTC+%7C+MongoDB+%7C+AWS+Lambda+%7C+SEO+Performance" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=1000&lines=Full+Stack+Product+Engineer+%7C+SaaS+Architect+%7C+Cloud+Native+Builder;React.js+%7C+Node.js+%7C+WebRTC+%7C+MongoDB+%7C+AWS+Lambda+%7C+SEO+Performance" />
 </p>
 
 ---
 
 ## Overview
 
-Hi, I'm **Sanjay Patidar** — a Full-Stack Engineer with a strong product mindset and 12+ real-world projects delivered across **serverless**, **cloud-native**, and **SEO-first** architectures.
+Hi, I'm **Sanjay Patidar** — a Full Stack Product Engineer with a strong product mindset and 12+ real-world projects delivered across **serverless**, **cloud-native**, and **SEO-first** architectures.
 
 I specialize in building **production-grade applications** that drive measurable business impact — prioritizing performance, scalability, and user-centric outcomes over just shipping features.
 
@@ -19,6 +19,7 @@ I specialize in building **production-grade applications** that drive measurable
 - 📚 eLearning platforms (Zedemy LMS)
 - 📹 Real-time video communication (ConnectNow)
 - 📅 Event coordination (EventEase)
+- 🤖 AI-powered mobile apps (AgriBot for farmers)
 
 Each of my projects is **backed by a real use case**, engineered for production-readiness, performance, and long-term scalability. From serverless deployments to client-side rendering and cloud cost management, every project below is a carefully crafted solution.
 
@@ -28,10 +29,11 @@ Each of my projects is **backed by a real use case**, engineered for production-
 
 | Case Study | Live Demo | GitHub | Description |
 |------------|-----------|--------|-------------|
-| [LIC Neemuch](https://sanjay-patidar.vercel.app/lic-case-study) | [Live](https://licneemuch.space) | [Code](https://github.com/sanjaydeploys/LicNeemuch) | SEO-first insurance inquiry site, SSR-powered, AWS Lambda backend, 3x lead growth |
+| [LIC Neemuch](https://sanjay-patidar.vercel.app/lic-case-study) | [Live](https://licneemuch.space) | [Code](https://github.com/sanjaydeploys/LicNeemuch) | SEO-first insurance inquiry site, SSR-powered, AWS Lambda backend, 3x lead growth, 2M+ impressions |
 | [Zedemy LMS](https://sanjay-patidar.vercel.app/zedemy-case-study) | [Live](https://zedemy.vercel.app) | [Code](https://github.com/sanjaydeploys/Zedemy) | Serverless LMS with blog, code editor, certs, SSR, and autosave coding sandbox |
 | [EventEase](https://sanjay-patidar.vercel.app/eventease-case-study) | [Live](https://eventunified.vercel.app) | [Code](https://github.com/sanjaydeploys/EventEase) | Unified event scheduling + collaboration platform, Google Calendar-ready |
 | [ConnectNow](https://sanjay-patidar.vercel.app/connectnow-case-study) | [Live](https://connectnow.vercel.app) | [Code](https://github.com/sanjaydeploys/ConnectNow-frontend) | WebRTC + Socket.io based P2P calling with ICE fallback, chat, and file transfer |
+| [AgriBot](https://sanjay-patidar.vercel.app/agribot-case-study) | [Explore](https://sanjay-patidar.vercel.app/agribot) | N/A (Private) | Multilingual AI chatbot Android app for farmers, Kotlin/Python/LangChain, Gemini API backend on AWS |
 
 ---
 
@@ -61,6 +63,7 @@ Developed to modernize local LIC officer operations, this project digitizes poli
 - 3x increase in inquiry submissions  
 - Indexed in Google Top 3 for local insurance keywords  
 - Reduced outreach cost by replacing manual promotions
+- 2M+ organic impressions
 
 ---
 
@@ -147,12 +150,47 @@ A robust peer-to-peer video and file sharing platform built on WebRTC with custo
 
 ---
 
+### AgriBot – Farmer's AI Chatbot  
+**Live:** [Explore](https://sanjay-patidar.vercel.app/agribot)  
+**Case Study:** [Read Full Case](https://sanjay-patidar.vercel.app/agribot-case-study)  
+<h3><strong>AgriBot App Architecture:</strong></h3>
+<!-- No hosted image available; using ASCII diagram as fallback for clarity -->
+<pre>
++-------------------+       +-------------------+       +-------------------+
+|   Android App     |       |   Python Backend  |       |   External APIs   |
+| (Kotlin Frontend) |       | (LangChain on AWS |       |                   |
+| - UI/UX           | <---> |   Lambda/Docker)  | <---> | - Gemini LLM      |
+| - STT/TTS (Hindi/ |       | - Prompt Handling |       | - CloudWatch      |
+|   English)        |       | - JSON APIs       |       |                   |
+| - Chaquopy (Py)   |       | - Monitoring      |       |                   |
+| - Offline Search  |       |                   |       |                   |
++-------------------+       +-------------------+       +-------------------+
+</pre>
+
+#### Project Summary  
+
+A multilingual AI chatbot Android app for farmers, providing pinned Q&A, voice interactions, and offline persistence. Pivoted from Expo to native Kotlin for better integrations.
+
+#### Features  
+- Hindi/English speech-to-text/text-to-speech  
+- Typing indicators and offline mode  
+- Secure API keys on server-side  
+- Docker-built Lambda layers for backend  
+
+#### Stack  
+- **Frontend:** Kotlin, Android SDK, Chaquopy  
+- **Backend:** Python, LangChain, Gemini API  
+- **Infra:** AWS Lambda, Docker, API Gateway, CloudWatch  
+
+---
+
 ## Engineering Themes & Practices
 
 - **SSR for SEO-first Apps:** All major platforms use Helmet and pre-rendered content to enable fast indexing and discoverability.
 - **Modular Monorepo Management:** EventEase uses a shared directory with slices split between EventEase and EventPro modules.
 - **Optimized Cloud Usage:** AWS Lambda + DynamoDB + Vercel balance cost and scale with no backend server maintenance.
 - **Real-World Freelancing:** LIC Neemuch was developed from scratch for a real client with formal SRS, MOU, and ₹50K valuation.
+- **Hybrid Mobile Development:** AgriBot leverages Kotlin with Python backend for AI features, ensuring offline resilience and multilingual support.
 
 ---
 
@@ -165,13 +203,13 @@ A robust peer-to-peer video and file sharing platform built on WebRTC with custo
 > Yes. I designed, built, deployed, and maintained all platforms solo—including integrations, testing, and documentation.
 
 ### Q3: Are these portfolio-only or live production apps?
-> Each project is deployed and indexed. LIC Neemuch is used by real LIC officers. Zedemy has a live user base. EventEase and ConnectNow are fully functional and hosted.
+> Each project is deployed and indexed. LIC Neemuch is used by real LIC officers. Zedemy has a live user base. EventEase and ConnectNow are fully functional and hosted. AgriBot is a downloadable Android app with real-world AI utility for farmers.
 
 ### Q4: Why serverless everywhere?
 > I prefer low-maintenance deployments. Lambda + Vercel + MongoDB provide the right balance of performance and cost, especially for early-stage platforms.
 
 ### Q5: Any reusable modules or design patterns?
-> Yes. Shared Redux slices, serverless functions, authentication flows, and SSR logic are reused and customized per use case.
+> Yes. Shared Redux slices, serverless functions, authentication flows, SSR logic, and AI integrations (like LangChain in AgriBot) are reused and customized per use case.
 
 ---
 
@@ -179,7 +217,7 @@ A robust peer-to-peer video and file sharing platform built on WebRTC with custo
 
 This repository isn’t a list of template-based clones. It’s a curated, engineered set of platforms born from a developer’s journey toward mastering real-world software delivery.
 
-Every decision—SSR, STUN, role-based routing, SEO tuning, caching headers—was made with long-term scalability and performance in mind.
+Every decision—SSR, STUN, role-based routing, SEO tuning, caching headers, AI backend chaining—was made with long-term scalability and performance in mind.
 
 For in-depth reading, check out each individual case study linked above.
 
@@ -190,7 +228,7 @@ For in-depth reading, check out each individual case study linked above.
 - Website: [sanjay-patidar.vercel.app](https://sanjay-patidar.vercel.app)
 - Resume: [Download Resume](https://sanjay-patidar.vercel.app/resume)
 - LinkedIn: [linkedin.com/in/sanjay-patidar](https://linkedin.com/in/sanjay-patidar)
-- Email: [sanjaypatidar.engineer@gmail.com](mailto:sanjaypatidar.engineer@gmail.com)
+- Email: [sanjay.deploys@gmail.com](mailto:sanjay.deploys@gmail.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=footer" />
