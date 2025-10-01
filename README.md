@@ -29,11 +29,11 @@ Each of my projects is **backed by a real use case**, engineered for production-
 
 | Case Study | Live Demo | GitHub | Description |
 |------------|-----------|--------|-------------|
-| [LIC Neemuch](https://sanjay-patidar.vercel.app/lic-case-study) | [Live](https://licneemuch.space) | [Code](https://github.com/sanjaydeploys/LicNeemuch) | SEO-first insurance inquiry site, SSR-powered, AWS Lambda backend, 3x lead growth, 2M+ impressions |
-| [Zedemy LMS](https://sanjay-patidar.vercel.app/zedemy-case-study) | [Live](https://zedemy.vercel.app) | [Code](https://github.com/sanjaydeploys/Zedemy) | Serverless LMS with blog, code editor, certs, SSR, and autosave coding sandbox |
-| [EventEase](https://sanjay-patidar.vercel.app/eventease-case-study) | [Live](https://eventunified.vercel.app) | [Code](https://github.com/sanjaydeploys/EventEase) | Unified event scheduling + collaboration platform, Google Calendar-ready |
-| [ConnectNow](https://sanjay-patidar.vercel.app/connectnow-case-study) | [Live](https://connectnow.vercel.app) | [Code](https://github.com/sanjaydeploys/ConnectNow-frontend) | WebRTC + Socket.io based P2P calling with ICE fallback, chat, and file transfer |
-| [AgriBot](https://sanjay-patidar.vercel.app/agribot-case-study) | [Explore](https://sanjay-patidar.vercel.app/agribot) | N/A (Private) | Multilingual AI chatbot Android app for farmers, Kotlin/Python/LangChain, Gemini API backend on AWS |
+| [LIC Neemuch](https://sanjaypatidar.in/lic-case-study) | [Live](https://licneemuch.space) | [Code](https://github.com/sanjaydeploys/LicNeemuch) | SEO-first insurance inquiry site, SSR-powered, AWS Lambda backend, 3x lead growth, 2M+ impressions |
+| [Zedemy LMS](https://sanjaypatidar.in/zedemy-case-study) | [Live](https://zedemy.vercel.app) | [Code](https://github.com/sanjaydeploys/Zedemy) | Serverless LMS with blog, code editor, certs, SSR, and autosave coding sandbox |
+| [EventEase](https://sanjaypatidar.in/eventease-case-study) | [Live](https://eventunified.vercel.app) | [Code](https://github.com/sanjaydeploys/EventEase) | Unified event scheduling + collaboration platform, Google Calendar-ready |
+| [ConnectNow](https://sanjaypatidar.in/connectnow-case-study) | [Live](https://connectnow.vercel.app) | [Code](https://github.com/sanjaydeploys/ConnectNow-frontend) | WebRTC + Socket.io based P2P calling with ICE fallback, chat, and file transfer |
+| [AgriBot](https://sanjaypatidar.in/agribot-case-study) | [Explore](https://sanjaypatidar.in/agribot) | N/A (Private) | Multilingual AI chatbot Android app for farmers, Kotlin/Python/LangChain, Gemini API backend on AWS |
 
 ---
 
@@ -41,7 +41,7 @@ Each of my projects is **backed by a real use case**, engineered for production-
 
 ### LIC Neemuch – Insurance Inquiry Platform  
 **Live:** [licneemuch.space](https://licneemuch.space)  
-**Case Study:** [Read Full Case](https://sanjay-patidar.vercel.app/lic-case-study)  
+**Case Study:** [Read Full Case](https://sanjaypatidar.in/lic-case-study)  
 <h3><strong>LIC Neemuch Website Architecture:</strong></h3>
 <a href="https://d12uvtgcxr5qif.cloudfront.net/images/html_2025-07-08_bfdb0da4-ad88-48e7-8657-7338fa7af12f.webp" target="_blank">
   <img 
@@ -69,7 +69,7 @@ Developed to modernize local LIC officer operations, this project digitizes poli
 
 ### Zedemy LMS – Learn, Share & Build  
 **Live:** [zedemy.vercel.app](https://zedemy.vercel.app)  
-**Case Study:** [Read Full Case](https://sanjay-patidar.vercel.app/zedemy-case-study)  
+**Case Study:** [Read Full Case](https://sanjaypatidar.in/zedemy-case-study)  
 <h3><strong>Zedemy Website Architecture:</strong></h3>
 <a href="https://d12uvtgcxr5qif.cloudfront.net/images/css_2025-07-03_cb43e254-8d85-44ca-9d26-b1aad5ff5211.webp" target="_blank">
   <img 
@@ -97,7 +97,7 @@ Zedemy is a full-fledged learning management system where users read content, tr
 
 ### EventEase – Unified Event Scheduling & Management  
 **Live:** [eventunified.vercel.app](https://eventunified.vercel.app)  
-**Case Study:** [Read Full Case](https://sanjay-patidar.vercel.app/eventease-case-study)  
+**Case Study:** [Read Full Case](https://sanjaypatidar.in/eventease-case-study)  
 <h3><strong>EventEase Website Architecture:</strong></h3>
 <a href="https://d12uvtgcxr5qif.cloudfront.net/images/html_2025-07-03_b58ba1c1-f56b-41a0-aa72-331631236ef8.webp" target="_blank">
   <img 
@@ -125,7 +125,7 @@ Merged two products—EventEase (smart scheduling) and EventPro (team-based CRUD
 
 ### ConnectNow – Real-time P2P Video Communication  
 **Live:** [connectnow.vercel.app](https://connectnow.vercel.app)  
-**Case Study:** [Read Full Case](https://sanjay-patidar.vercel.app/connectnow-case-study)  
+**Case Study:** [Read Full Case](https://sanjaypatidar.in/connectnow-case-study)  
 <h3><strong>ConnectNow Website Architecture:</strong></h3>
 <a href="https://d12uvtgcxr5qif.cloudfront.net/images/vs-code_2025-07-03_cac6a510-b50c-415c-ba43-2df8146bd8fe.webp" target="_blank">
   <img 
@@ -151,8 +151,8 @@ A robust peer-to-peer video and file sharing platform built on WebRTC with custo
 ---
 
 ### AgriBot – Farmer's AI Chatbot  
-**Live:** [Explore](https://sanjay-patidar.vercel.app/agribot)  
-**Case Study:** [Read Full Case](https://sanjay-patidar.vercel.app/agribot-case-study)  
+**Live:** [Explore](https://sanjaypatidar.in/agribot)  
+**Case Study:** [Read Full Case](https://sanjaypatidar.in/agribot-case-study)  
 <h3><strong>AgriBot App Architecture:</strong></h3>
 <!-- No hosted image available; using ASCII diagram as fallback for clarity -->
 <pre>
@@ -225,8 +225,8 @@ For in-depth reading, check out each individual case study linked above.
 
 ## 📎 Portfolio Links
 
-- Website: [sanjay-patidar.vercel.app](https://sanjay-patidar.vercel.app)
-- Resume: [Download Resume](https://sanjay-patidar.vercel.app/resume)
+- Website: [sanjaypatidar.in](https://sanjaypatidar.in)
+- Resume: [Download Resume](https://sanjaypatidar.in/resume)
 - LinkedIn: [linkedin.com/in/sanjay-patidar](https://linkedin.com/in/sanjay-patidar)
 - Email: [sanjay.deploys@gmail.com](mailto:sanjay.deploys@gmail.com)
 
