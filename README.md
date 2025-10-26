@@ -41,13 +41,13 @@ Each of my projects is **backed by a real use case**, engineered for production-
 **Author:** Sanjay Patidar — Full Stack Product Engineer  
 **Portfolio:** [sanjaypatidar.in](https://sanjaypatidar.in)  
 
-This README organizes my technical content from [sanjaypatidar.in](https://sanjaypatidar.in), strictly following the provided navigation structure. It covers Data Structures & Algorithms (DSA) Pattern Recognition and System Design Patterns for FAANG-level preparation. Content is SSR-optimized for SEO and performance, achieving 80%+ interview success across 500+ mentees.
+This Section organizes my technical content from [sanjaypatidar.in](https://sanjaypatidar.in). It covers Data Structures & Algorithms (DSA) Pattern Recognition and System Design Patterns for FAANG-level preparation. Content is SSR-optimized for SEO and performance, achieving 80%+ interview success across 500+ mentees.
 
 ---
 
 ### Overview
 
-This repository hosts:
+This Section hosts:
 1. **DSA Pattern Recognition**: 15 patterns for FAANG coding interviews, with JavaScript solutions, ASCII diagrams, and proofs.
 2. **System Design Patterns**: 10 patterns for scalable architectures, with trade-offs and case studies.
 
